@@ -29,3 +29,23 @@ Recipe-Webpage/
 ├── recipe.html # Main webpage with recipes
 ├── recipe.css # Styling file for the webpage
 └── images # Folder for food images 
+
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open `recipe.html` in any web browser.
+3. Enjoy the recipes and feel free to add more!
+
+## 📌 Future Updates
+
+- Add more recipes  
+- Include images for each dish  
+- Add light/dark mode toggle  
+
+## 📧 Contact
+
+Created by **Sayan Das**  
+Feel free to reach out for feedback or collaboration!
+
+
